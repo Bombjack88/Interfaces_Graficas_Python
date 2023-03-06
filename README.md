@@ -1,7 +1,7 @@
 # Interfaces_Graficas_Python
  
 ### Exemplos de códigos para a criação de Interfaces gráficas no Python.
-#### Utiliza o TKInter e o PySimpleGUI
+### Bibliotecas: TKInter e o PySimpleGUI
 
 [TKinter_DS](https://github.com/Bombjack88/Interfaces_Graficas_Python/blob/main/Tkinter_DS.py) - > Interface gráfica que apresenta a cotação (taxa de câmbio) de um conjunto de Moedas utilizando informação de uma API - biblioteca TKinter.
 
